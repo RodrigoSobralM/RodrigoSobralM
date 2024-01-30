@@ -31,7 +31,7 @@ Não hesite em explorar meus repositórios e entrar em contato para colaboraçõ
 
 🤔 Procuro ajuda para conseguir mais conhecimentos no mundo da programação.
 
-💬 Me pergunte sobre Programação, dorams, animes e quando iremos marca uma viagem.
+💬 Me pergunte sobre Programação, doramas, animes e quando iremos marca uma viagem.
 
 📫 Como entrar em contato comigo. Via E-mail: rodrgio_sobral.m@hotmail.com e linkedin localizado na sessão acima
 
