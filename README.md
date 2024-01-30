@@ -40,6 +40,7 @@ Obrigado por me visitar!
 
 ⚡️ Fatos engraçados Sou dorameiro
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RodrigoSobralM&show_icons=true&bg_color=00000000)
 
 ## 🛠 Habilidades
 HTML, CSS, JavaScript, React.Js, Node.Js, Java, ORACLE, MongoDB, MySQL, Express.Js
