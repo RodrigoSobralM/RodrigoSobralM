@@ -24,7 +24,7 @@ Não hesite em explorar meus repositórios e entrar em contato para colaboraçõ
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-sobral-294b17192/)
 
 
-## Outras seções comuns em perfis do GitHub
+## Curiosidades
 🧠 Estou aprendendo 
 
 👯‍♀️ Procuro colaborar em Desenvolvimento de Softwares web/mobile.
