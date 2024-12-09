@@ -9,21 +9,28 @@
 
 ## 🛠️ Habilidades Técnicas
 ### Frontend
-- ⚛️ React.js (Avançado), Vite.js
-- 🎨 HTML5 (Avançado), CSS3 (Avançado), JavaScript (ES6+) (Avançado)
+- ⚛️ React.js
+- ⚡ Vite.js
+- 🎨 HTML5
+- 🎨 CSS3
+- 💻 JavaScript (ES6+)
 ### Backend
-- 🟢 Node.js (Avançado)
-- ☕ Java (Spring Boot) (Avançado)
-- 🟦 Typescript (Avançado)
+- 🟢 Node.js
+- ☕ Java (Spring Boot)
+- 🟦 TypeScript
 ### Banco de Dados
-- 🐘 PostgreSQL (Avançado), 🟡 MongoDB (Avançado)
-- 🐬 MySQL (Avançado), 🔴 Oracle (Avançado)
-- 🛠️ Experiência com Docker (Intermediário) e manipulação de imagens para bancos
+- 🐘 PostgreSQL
+- 🟡 MongoDB
+- 🐬 MySQL
+- 🔴 Oracle
+- 🛠️ Experiência com Docker e manipulação de imagens para bancos
 ### Outras Tecnologias
-- 🌐 APIs RESTful, GraphQL, Kotlin para Android
+- 🌐 APIs RESTful
+- 🔗 GraphQL
+- 📱 Kotlin para Android
 - 🔄 Testes Automatizados (BDD com Gherkin, JSON Schema Validation)
 - 🎛️ IoT e Integrações com Machine Learning
-- ☁️ Azure (Intermediário)
+- ☁️ Azure
 
 ## 📈 Estatísticas do GitHub
 ![Rodrigo GitHub stats](https://github-readme-stats.vercel.app/api?username=RodrigoSobralM&theme=ambient_gradient&show_icons=true)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoSobralM&layout=compact)
