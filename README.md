@@ -37,7 +37,7 @@
 
 🌍 Entre em contato comigo para colaborações ou oportunidades de trabalho!
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://github.com/RodrigoSobralM?tab=repositories)) [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-sobral-294b17192/) [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=3D6DB8)](mailto:rodrigo_sobral.m@hotmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://github.com/RodrigoSobralM?tab=repositories) [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-sobral-294b17192/) [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=3d6db8)](mailto:rodrigo_sobral.m@hotmail.com)
 
 
 
