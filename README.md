@@ -8,18 +8,18 @@
 - 🌍 Gestão de Resíduos: Solução inovadora para monitoramento e coleta eficiente.
 
 ## 🛠️ Habilidades Técnicas
-Frontend
+### Frontend
 - ⚛️ React.js (Avançado), Vite.js
 - 🎨 HTML5 (Avançado), CSS3 (Avançado), JavaScript (ES6+) (Avançado)
-Backend
+### Backend
 - 🟢 Node.js (Avançado)
 - ☕ Java (Spring Boot) (Avançado)
 - 🟦 Typescript (Avançado)
-Banco de Dados
+### Banco de Dados
 - 🐘 PostgreSQL (Avançado), 🟡 MongoDB (Avançado)
 - 🐬 MySQL (Avançado), 🔴 Oracle (Avançado)
 - 🛠️ Experiência com Docker (Intermediário) e manipulação de imagens para bancos
-Outras Tecnologias
+### Outras Tecnologias
 - 🌐 APIs RESTful, GraphQL, Kotlin para Android
 - 🔄 Testes Automatizados (BDD com Gherkin, JSON Schema Validation)
 - 🎛️ IoT e Integrações com Machine Learning
@@ -36,7 +36,8 @@ Outras Tecnologias
 🌟 "Transformando ideias em soluções tecnológicas que fazem a diferença."
 
 🌍 Entre em contato comigo para colaborações ou oportunidades de trabalho!
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]([https://katherineoelsner.com/](https://github.com/RodrigoSobralM?tab=repositories)) [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-sobral-294b17192/) [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:rodrigo_sobral.m@hotmail.com)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://github.com/RodrigoSobralM?tab=repositories)) [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-sobral-294b17192/) [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=3D6DB8)](mailto:rodrigo_sobral.m@hotmail.com)
 
 
 
