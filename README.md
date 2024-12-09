@@ -2,47 +2,42 @@
 
 
 ## 🚀 Sobre mim
-Olá, sou Rodrigo, tenho 25 anos.
-Sou estudante de análise e desenvovimento de sistemas pela FIAP, e desenvolvimento full-stack pela Escola DNC (Formação em tecnologia).
+🎓 Engenheiro de Software em formação pela FIAP e formado em Análise e Desenvolvimento de Sistemas, com mais de 3 anos de experiência em desenvolvimento full stack. Sou apaixonado por resolver problemas complexos utilizando tecnologia e metodologias ágeis. Meu foco está em criar soluções inovadoras nas áreas de cidades inteligentes, abrangendo sustentabilidade, mobilidade urbana, eficiência energética, saúde, educação e agricultura regenerativa, promovendo uma integração harmônica entre tecnologia e qualidade de vida. Atualmente, estou trabalhando em projetos como:
 
+- 🌱 EcoGrid: Plataforma para otimização de energia renovável usando IoT e machine learning.
+- 🌍 Gestão de Resíduos: Solução inovadora para monitoramento e coleta eficiente.
 
-# Olá, eu sou Rodrigo Sobral! 👋
+## 🛠️ Habilidades Técnicas
+Frontend
+- ⚛️ React.js (Avançado), Vite.js
+- 🎨 HTML5 (Avançado), CSS3 (Avançado), JavaScript (ES6+) (Avançado)
+Backend
+- 🟢 Node.js (Avançado)
+- ☕ Java (Spring Boot) (Avançado)
+- 🟦 Typescript (Avançado)
+Banco de Dados
+- 🐘 PostgreSQL (Avançado), 🟡 MongoDB (Avançado)
+- 🐬 MySQL (Avançado), 🔴 Oracle (Avançado)
+- 🛠️ Experiência com Docker (Intermediário) e manipulação de imagens para bancos
+Outras Tecnologias
+- 🌐 APIs RESTful, GraphQL, Kotlin para Android
+- 🔄 Testes Automatizados (BDD com Gherkin, JSON Schema Validation)
+- 🎛️ IoT e Integrações com Machine Learning
+- ☁️ Azure (Intermediário)
 
-Sou um entusiasta do desenvolvimento web/mobile com foco em proporcionar experiências incríveis aos usuários por meio de interfaces dinâmicas e funcionais. Com uma paixão pelo desenvolvimento full-stack, tenho me dedicado a aprimorar minhas habilidades tanto no front-end quanto no back-end.
-
-No front-end, sou especializado em React, uma biblioteca poderosa que me permite criar interfaces de usuário modernas e responsivas. Com experiência em projetos desafiadores, estou preparado para enfrentar os mais diversos requisitos de design e interação.
-
-Além disso, no back-end, domino tecnologias como Node.js e Express, que me capacitam a construir servidores eficientes e escaláveis. Estou sempre buscando aprender e aprimorar minhas habilidades para desenvolver soluções robustas e eficazes.
-
-Estou animado para colaborar em projetos desafiadores, contribuir com a comunidade de desenvolvimento e continuar minha jornada em busca de excelência no desenvolvimento full-stack.
-
-Não hesite em explorar meus repositórios e entrar em contato para colaborações ou discussões sobre tecnologia.
-
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]()
-
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-sobral-294b17192/)
-
-
-## Curiosidades
-🧠 Estou aprendendo 
-
-👯‍♀️ Procuro colaborar em Desenvolvimento de Softwares web/mobile.
-
-🤔 Procuro ajuda para conseguir mais conhecimentos no mundo da programação.
-
-💬 Me pergunte sobre Programação, doramas, animes e quando iremos marca uma viagem.
-
-📫 Como entrar em contato comigo. Via E-mail: rodrgio_sobral.m@hotmail.com e linkedin localizado na sessão acima
-
-😄 Pronomes ele/dele
-
-⚡️ Fatos engraçados Sou dorameiro e otaku 
-## 🛠 Linguagens e Ferramentas
-
+## 📈 Estatísticas do GitHub
 ![Rodrigo GitHub stats](https://github-readme-stats.vercel.app/api?username=RodrigoSobralM&theme=ambient_gradient&show_icons=true)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoSobralM&layout=compact)
 
-![HTMLBadge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSSBadge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JsBadge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![ReactJsBadge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![NodeJsBadge](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![ExpressJsBadge](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white) ![JsonBadge](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white) ![ReactRouterBadge](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![SassBadge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) ![NpmBadge](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white) ![PostmanBadge](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white) ![MySQLBadge](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDBBadge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![OracleBadge](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white) ![FigmaBadge](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![AxiosBadge](https://img.shields.io/badge/axios-671ddf?&style=for-the-badge&logo=axios&logoColor=white) ![NextJsBadge](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+## 💡 Objetivos
+- Contribuir para projetos de impacto global focados em tecnologia sustentável.
+- Expandir meu conhecimento em inteligência artificial aplicada e desenvolvimento mobile nativo.
+- Fazer parte de uma empresa inovadora e de alcance internacional.
+
+🌟 "Transformando ideias em soluções tecnológicas que fazem a diferença."
+
+🌍 Entre em contato comigo para colaborações ou oportunidades de trabalho!
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]([https://katherineoelsner.com/](https://github.com/RodrigoSobralM?tab=repositories)) [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-sobral-294b17192/) [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:rodrigo_sobral.m@hotmail.com)
 
 
-- Obrigado por me visitar!
+
+
